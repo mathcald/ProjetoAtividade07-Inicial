@@ -48,11 +48,4 @@
     margin-right: 0;
 }
 
-/*Apenas mobile*/
 
-    .cabecalhoPrincipal .container{
-        flex-direction: column;  
-        align-items: initial;
-        text-align: center;
-      }
-    
